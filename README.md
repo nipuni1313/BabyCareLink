@@ -1,4 +1,2 @@
-# BabyCareLink
+[Download the PDF](./Team%20Elevation.pdf)
 
-For detailed documentation, please refer to the Brainstorm Project Proposal.pdf.
-[Download the PDF](./Team Elevation.pdf)
